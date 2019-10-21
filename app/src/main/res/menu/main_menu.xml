@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnAdd"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/mnAdd"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/mnOrdenar"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:title="@string/mnOrdenar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mnAcercade"
+        android:title="@string/mnAcercade" />
+</menu>

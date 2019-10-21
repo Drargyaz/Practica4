@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="mnAdd">Add</string>
+    <string name="mnOrdenar">Ordenar</string>
+    <string name="mnAcercade">Acerca de...</string>
+    <string name="dlogAcercaTitle">Acerca de...</string>
+    <string name="dlogAcercaMessage">Práctica 4 realizada por Juan Martínez López para la clase de Aplicaciones Multimedia.</string>
+    <string name="tv_v1">TextView</string>
+    <string name="tv_v2">TextView</string>
+    <string name="tv_v3">TextView</string>
+    <string name="dlogOK">OK</string>
+    <string name="msg_selection">Prueba</string>
+    <string name="msg_PulsacionLongLinsta">Pulsacion larga</string>
+</resources>
